@@ -1,7 +1,5 @@
 # SQL-equals-pain
 SQL- project 12
-# NoSQLSocialAPI
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)
 
 ## Description 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
@@ -12,17 +10,10 @@ An API for a social network web application where users can share their thoughts
 
 * [License](#license)
 
-* [Contributors](#contributors)
-* [Test](#test)
-* [Questions](#Questions)
 
 ## Installations (Dependencies)
 To install dependencies, run these commands:
-```
-npm i
-```
-
-## Usage 
+npm install
 
 ## License 
       Copyright © MIT. All rights reserved. 
